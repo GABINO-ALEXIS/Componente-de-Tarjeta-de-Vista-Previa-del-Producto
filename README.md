@@ -6,7 +6,7 @@
 
 Gracias por revisar este desafío de codificación front-end.
 
-Esta es una solución al [desafío de la sección de funciones de cuatro cartas en Frontend Mentor] (https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
+Esta es una solución al [desafío de la sección de funciones de cuatro cartas en Frontend Mentor] (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 ## Tabla de contenido
 
