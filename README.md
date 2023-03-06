@@ -29,7 +29,7 @@ Esta es una solución al [desafío de la sección de funciones de cuatro cartas 
 
 ### Que aprendí
 
-Aprendi a reforzar mis conocimientos relizando este desafio 
+Aprendi a mejorar y reforzar mis conocimientos relizando este desafio 
 
 ## Autor
 
