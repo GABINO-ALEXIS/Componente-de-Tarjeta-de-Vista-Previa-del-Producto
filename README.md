@@ -11,16 +11,13 @@ Esta es una solución al [desafío de la sección de funciones de cuatro cartas 
 ## Tabla de contenido
 
   - [El reto](#el-reto)
-- [Mi proceso](#mi-proceso)
   - [Construido con](#construido-con)
   - [Lo que aprendí](#lo-que-aprendí)
-  - [Desarrollo continuo](#desarrollo-continuo)
-  - [Recursos útiles](#recursos-útiles)
 - [Autor](#autor)
 
 ### El reto
 
-- Realizar el diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo
+- Realizar un diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo
 
 
 ### Construido con
@@ -40,4 +37,3 @@ Aprendi a reforzar mis conocimientos relizando este desafio
 - Gabino Alexis
 - Mentor de frontend - [GABINO-ALEXIS](https://www.frontendmentor.io/profile/GABINO-ALEXIS)
 
-## Thank you!!
