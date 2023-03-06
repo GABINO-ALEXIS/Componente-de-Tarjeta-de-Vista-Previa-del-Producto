@@ -17,10 +17,9 @@ Esta es una solución al [desafío de la sección de funciones de cuatro cartas 
 
 ### El reto
 
-- Realizar un diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo
+- Realizar un diseño óptimo para el sitio según el tamaño de pantalla de su dispositivo.
 
-
-### Construido con
+### Construido con:
 
 - Marcado HTML5 semántico
 - Propiedades personalizadas de CSS
