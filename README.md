@@ -1,18 +1,17 @@
-# Sección de funciones de cuatro cartas
-
+# Componente de Tarjeta de Vista Previa del Producto
 ![Design preview for the Four card feature section coding challenge](./design/desktop-design.jpg)
 
-## Welcome! 👋
+## ¡Bienvenido! 👋
 
 Gracias por revisar este desafío de codificación front-end.
 
-Esta es una solución al [desafío de la sección de funciones de cuatro cartas en Frontend Mentor] (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
+Esta es una solución al desafío de Desarrollar una tarjeta de vista previa del producto. Los desafíos de Frontend Mentor lo ayudan a mejorar sus habilidades de codificación mediante la creación de proyectos realistas.
 
 ## Tabla de contenido
 
   - [El reto](#el-reto)
   - [Construido con](#construido-con)
-  - [Lo que aprendí](#lo-que-aprendí)
+  - [Que aprendí](#que-aprendí)
 - [Autor](#autor)
 
 ### El reto
